@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/preview/hero.png" alt="Fatchurizkia Ruly Octareza — ilustrasi workspace developer" width="100%">
+  <img src="docs/preview/hero.svg" alt="Fatchurizkia Ruly Octareza — ilustrasi workspace developer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Ruly 👋</h1>
